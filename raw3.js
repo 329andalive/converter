@@ -1,6 +1,6 @@
 var  yards = 100
 var meters 
-var MM
+var inches
 
 
 function convertLength() {
